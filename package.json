@@ -1,0 +1,31 @@
+{
+  "name": "spas-gcal",
+  "description": "Google Calendar wrapper for spas",
+  "version": "0.0.1",
+  "author": {
+    "name": "John Lafitte",
+    "email": "jlafitte@brandextract.com",
+    "url": "http://jlafitte.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jlafitte/spas-gcal.git"
+  },
+  "keywords": [
+    "spas",
+    "proxy",
+    "cache",
+    "api",
+    "gcal",
+    "calendar",
+    "json"
+  ],
+  "dependencies": {
+    "async": "0.2.x"
+  },
+  "main": "./api.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readme": "# spas-gcal\n\nGoogle Calendar wrapper for spas\n\n### Installing spas-gcal\n``` bash\n$ [sudo] npm install spas-gcal\n```\n\n## Documentation\nspas-gcal documentation can be found at http://jlafitte.github.com/spas-gcal"
+}
